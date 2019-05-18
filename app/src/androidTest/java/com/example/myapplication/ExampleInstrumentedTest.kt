@@ -20,5 +20,6 @@ class ExampleInstrumentedTest {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
         assertEquals("com.example.myapplication", appContext.packageName)
+        //this is my test sentence
     }
 }
