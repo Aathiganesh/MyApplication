@@ -1,0 +1,8 @@
+{
+    "uid": "urn:uuid:1234-5678-9012-3456",
+    "updateDate": "2024-01-20T10:00:00.0Z",
+    "titleText": "Daily News Update",
+    "mainText": "Today's top story: Scientists discover a new species of butterfly in the Amazon rainforest.",
+    "streamUrl": null,
+    "redirectionUrl": "https://www.example.com/news"
+}
